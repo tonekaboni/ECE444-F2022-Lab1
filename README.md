@@ -30,3 +30,15 @@ Activity5:
 
 
 Activity 6: https://github.com/tonekaboni/ECE444-F2022-EP.git
+
+Activity 7: 
+
+<img width="839" alt="image" src="https://user-images.githubusercontent.com/46113981/191638097-e276e9c5-f4f7-46b6-8a77-d34c1e7eaf85.png">
+
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/46113981/191638293-d8722e35-3fda-4873-a72d-e1e2ec245421.png">
+
+Activity 8: 
+
+<img width="839" alt="image" src="https://user-images.githubusercontent.com/46113981/191640236-a0861bec-75b9-4cdc-9357-c193035b2b5a.png">
+
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/46113981/191640268-f89f2323-c7a0-4925-9cd9-3b612a5cbf99.png">
